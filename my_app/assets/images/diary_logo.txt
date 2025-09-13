@@ -1,0 +1,16 @@
+A_Dairy App Logo
+================
+
+This is a placeholder for the app logo.
+You can replace this with actual image files like:
+- diary_logo.png
+- diary_logo.jpg
+- app_icon.png
+
+The app currently uses Flutter's built-in Icons.book and Icons.auto_stories
+for visual elements throughout the interface.
+
+To add a custom logo:
+1. Place your image file in this directory
+2. Update pubspec.yaml if needed
+3. Use Image.asset('assets/images/your_logo.png') in the code
